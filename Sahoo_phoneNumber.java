@@ -1,5 +1,4 @@
 /*Ankur Sahoo
- * Period 3
  * Project: Phone Number Word Generator
  * This program generates all the combinations of words 
  * that corresponds to a phone number and prints out those
